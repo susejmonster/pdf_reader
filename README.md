@@ -9,3 +9,8 @@ import os
 
 import pymupdf as fitz
 import easyocr
+
+
+Hello! This is my first image processing project using OPENCV2 and TESSERACT. 
+
+TODO: implement pytorch so i can stop using pymupdf
